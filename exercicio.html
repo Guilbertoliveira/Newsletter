@@ -8,6 +8,17 @@
     <link rel="stylesheet" href="abstract/reset.css">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+              extend: {
+                    fontFamily: {
+                        inter: ['Inter', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
 
 
 </head>
@@ -20,7 +31,7 @@
     </main></div>
 
     <div class="bg-gradient-to-r from-pink-300 to-slate-400 p-4 w-5/5 lg:w-2/6 mx-auto my-10">
-        <h2 class="font-black text-4xl">Gabriela</h2>
+        <p class="text-6xl font-black text-primary font-inter">Gabriela</p>
         <p>Desenvolvedora Front-end</p>
     </div>
 </body>
