@@ -1,4 +1,6 @@
 
+<h1 align="center">Learning framework Tailwind</h1>
+<p>Creating a single page to study the Tailwind framework, framework aims to reduce coding CSS using only utility classes.</p>
 
 <!--
 # Índice 
@@ -16,8 +18,8 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão) !-->
 
-<h2 id="status-do-projeto">Project Status</h2>
-<p></p>
+<h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
+<p>Under construction</p>
   
   
 <h2 id="demonstracao">Website demo</h2>
@@ -36,4 +38,6 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  height="40" width="55" />      
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="55"/> 
 </p>
-    
+
+<h2>Official site documentation</h2>
+<p>https://tailwindcss.com/docs/</p>
