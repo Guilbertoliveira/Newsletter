@@ -14,21 +14,26 @@
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Pessoas Desenvolvedoras do Projeto](![Video_230204163404](https://user-images.githubusercontent.com/41201436/216787025-2e8faa12-9800-40ba-96e0-63e9d8b8fb7f.gif)
+#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão) !-->
 
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
-<p>Under construction</p>
+<p>Complete project</p>
   
   
-<h2 id="demonstracao">Website demo</h2>
-
 <h2 id="versaomobile">Version Mobile</h2>
+<img src="https://user-images.githubusercontent.com/41201436/216787031-e550c60e-1272-4e37-9aa6-666415f4b311.gif" alt="this slowpoke moves"  width="250" />
+
+
+<h2>Version Desktop</h2>
+<img src="https://user-images.githubusercontent.com/41201436/216787002-ef4a35d7-48c6-4156-880a-48c87a451497.gif" alt="this slowpoke moves"  width="750" height="550" />
+
 
 
 <h2 id="descricao-projeto">Project description</h2>
-<p> </p>
+<p>Unique project for learning Tailwind, Alura course used for learning.</p>
 
 <h2 id="acesso-ao-projeto">Project access</h2>
 <p>https://newsletter-mocha.vercel.app/</p>
@@ -42,3 +47,5 @@
 
 <h2>Official site documentation</h2>
 <p>https://tailwindcss.com/docs/</p>
+
+
