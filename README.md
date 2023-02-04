@@ -31,7 +31,8 @@
 <p> </p>
 
 <h2 id="acesso-ao-projeto">Project access</h2>
-  
+<p>https://newsletter-mocha.vercel.app/</p>
+
 <h2>Technologies used</h2>
 <p>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="55" />
