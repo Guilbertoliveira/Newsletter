@@ -1,6 +1,10 @@
 
 <h1 align="center">Learning framework Tailwind</h1>
-<p>Creating a single page to study the Tailwind framework, framework aims to reduce coding CSS using only utility classes.</p>
+<div align="center">
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Newsletter" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Guilbertoliveira/Newsletter" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Newsletter" /></p>
+<p>Creating a single page to study the Tailwind framework, framework aims to reduce coding CSS using only utility classes.</div>
 
 <!--
 # Índice 
