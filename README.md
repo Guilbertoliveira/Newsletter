@@ -4,6 +4,7 @@
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Newsletter" />
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Guilbertoliveira/Newsletter" />
 <img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Newsletter" /></p>
+<img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/Guilbertoliveira/Newsletter" />
 <p>Creating a single page to study the Tailwind framework, framework aims to reduce coding CSS using only utility classes.</div>
 
 <!--
