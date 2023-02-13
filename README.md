@@ -1,5 +1,5 @@
 
-<h1 align="center">Learning framework Tailwind</h1>
+<h1 align="center">Learning framework Tailwind (Newsletter)</h1>
 <div align="center">
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Newsletter" />
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Guilbertoliveira/Newsletter" />
